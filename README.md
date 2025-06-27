@@ -27,5 +27,5 @@ Un joc 2D cu tancuri construit cu [Pygame](https://www.pygame.org/), inspirat de
 1. Clonează acest repository:
 
 ```bash
-git clone https://github.com/utilizatorul-tau/tanks-game.git
+git clone https://github.com/rizarobert/Tanks.git
 cd tanks-game
